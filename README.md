@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Vaibhav Gujral. I'm currently working at Capgemini as a Director in Global Microsoft Cloud CoE. I am awarded MVP award by Microsoft in Azure category. 
+
 - 🎯 I run Omaha Azure User Group (https://omahaazure.org). You can subscribe to my blog (https://vaibhavgujral.com) and my YouTube Channel (https://www.youtube.com/c/VaibhavGujral)
+
 - 👀 I’m interested in .NET, Microsoft Azure, Kubernetes, Containers, Cloud Security, Cloud Architecture, Open Source technologies and much more.
-- 🌱 I’m currently learning about Python, AWS, and GCP.
+
+- 🌱 I’m currently learning about Data Science, Python, AWS, and GCP.
+
 - 💞️ I’m looking to collaborate on software development, cloud computing and anything tech related.
+
 - 📫 Best way to reach me is through Twitter (@vaibhavgujral_) or LinkedIn (https://www.linkedin.com/in/vaibhavgujral/). 
 
 <!---
