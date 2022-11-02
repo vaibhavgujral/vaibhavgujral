@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhav Gujral. I'm currently working at **Capgemini as a Director in Global Microsoft Cloud CoE**. I am awarded **MVP award by Microsoft in Azure category**. 
+- 👋 Hi, I'm Vaibhav Gujral. I currently work at **Capgemini as a Director in Global Microsoft Cloud CoE** and have been awarded the **MVP award by Microsoft in the Azure category**.
 
 - 🎯 I run [Omaha Azure User Group](https://omahaazure.org). You can subscribe to my [blog](https://vaibhavgujral.com) and my [YouTube Channel](https://www.youtube.com/c/VaibhavGujral)
 
