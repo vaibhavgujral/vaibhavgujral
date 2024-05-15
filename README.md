@@ -2,13 +2,13 @@
 
 - 🎯 I run [Omaha Azure User Group](https://omahaazure.org). You can subscribe to my [blog](https://vaibhavgujral.com) and my [YouTube Channel](https://www.youtube.com/c/VaibhavGujral)
 
-- 👀 I’m interested in **.NET, Microsoft Azure, Kubernetes, Containers, Cloud Security, Cloud Architecture, Open Source technologies and much more**.
+- 👀 I’m interested in **Cloud and AI technologies, Microsoft Azure, Amazon Web Services, Google Cloud Platform, Kubernetes, Terraform, Cloud Security, Cloud Architecture, Open Source technologies, and much more**.
 
 - 🌱 I’m currently learning about **Data Science, Python, AWS, and GCP**.
 
-- 💞️ I’m looking to collaborate on **software development, cloud computing and anything tech related**.
+- 💞️ I want to collaborate on **software development, cloud computing and anything tech-related**.
 
-- 📫 Best way to reach me is through [Twitter](https://twitter.com/vaibhavgujral_) or [LinkedIn](https://www.linkedin.com/in/vaibhavgujral/). 
+- 📫 Best way to reach me is through [X (formerly Twitter)](https://x.com/vaibhavgujral_) or [LinkedIn](https://www.linkedin.com/in/vaibhavgujral/). 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vaibhavgujral&show_icons=true)
 
