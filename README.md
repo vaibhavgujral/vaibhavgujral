@@ -1,10 +1,8 @@
-- 👋 Hi, I'm Vaibhav Gujral. I currently work at **Charles Schwab as a Principal Cloud Architect** and have been awarded the **MVP award by Microsoft in the Azure and AI Platform category**. Here is the link to my [MVP profile](https://mvp.microsoft.com/en-US/MVP/profile/18986559-38e8-ea11-a813-000d3a8ccaf5)
+- 👋 Hi, I'm Vaibhav Gujral. I currently work at **Charles Schwab as a Principal Cloud Architect** and have been awarded the **MVP award by Microsoft in the Azure and AI Platform category**. Here is the link to my [MVP profile](https://mvp.microsoft.com/en-US/MVP/profile/18986559-38e8-ea11-a813-000d3a8ccaf5).  I am an official member of the Forbes Technology Council and a senior member of IEEE.
 
 - 🎯 I run [Omaha Azure User Group](https://omahaazure.org) and Omaha Cloud Native User Group. You can subscribe to my [blog](https://vaibhavgujral.com) and my [YouTube Channel](https://www.youtube.com/c/VaibhavGujral)
 
-- I am an official member of the Forbes Technology Council and a senior member of IEEE.
-
-👀 I’m interested in Cloud and AI technologies. 
+- 👀 I’m interested in Cloud and AI technologies. 
 
 - 📫 Best way to reach me is through [X (formerly Twitter)](https://x.com/vaibhavgujral_) or [LinkedIn](https://www.linkedin.com/in/vaibhavgujral/). 
 
