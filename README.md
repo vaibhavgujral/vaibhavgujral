@@ -1,14 +1,8 @@
-- 👋 Hi, I'm Vaibhav Gujral. I currently work at **Capgemini as a Principal Architect** and have been awarded the **MVP award by Microsoft in the Azure and Microsoft Foundry category**. Here is the link to my [MVP profile](https://mvp.microsoft.com/en-US/MVP/profile/18986559-38e8-ea11-a813-000d3a8ccaf5).  I am also a Fellow at the British Computer Society (BCS), an official member of the Forbes Technology Council, and a senior member of IEEE.
+## Hi, I'm Vaibhav Gujral 👋
 
-- 🎯 I run [Omaha Azure User Group](https://omahaazure.org). You can subscribe to my [blog](https://vaibhavgujral.com) and my [YouTube Channel](https://www.youtube.com/c/VaibhavGujral)
-
-- 👀 I’m interested in Cloud and AI technologies. 
-
-- 📫 Best way to reach me is through [X (formerly Twitter)](https://x.com/vaibhavgujral_) or [LinkedIn](https://www.linkedin.com/in/vaibhavgujral/). 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vaibhavgujral&show_icons=true)
-
-<!---
-vaibhavgujral/vaibhavgujral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 **Principal Enterprise Architect at Capgemini**, working on cloud architecture, application modernization, and enterprise AI for large organizations. 20+ years in enterprise IT across financial services, construction, and consulting.
+- 🏆 **7× Microsoft MVP** — Azure (2020-2026) and Microsoft Foundry (2024-present) ([MVP profile](https://mvp.microsoft.com/en-US/MVP/profile/18986559-38e8-ea11-a813-000d3a8ccaf5)). Also a **Microsoft Certified Trainer**, Fellow of the British Computer Society (BCS), official member of the Forbes Technology Council, and IEEE Senior Member.
+- 🎤 Conference speaker — KCDC, Nebraska.Code(), Heartland Developer Conference, Azure + AI Conference, .NET Conf, and other community events. 
+- 🎯 Co-organizer of the [Omaha Azure User Group](https://omahaazure.org) — 100+ sessions since 2019.
+- 👀 Interested in Cloud and AI — especially agentic AI, AI-assisted application modernization, and DevOps.
+- 📫 Best way to reach me: [X (formerly Twitter)](https://x.com/vaibhavgujral_) or [LinkedIn](https://www.linkedin.com/in/vaibhavgujral/).
